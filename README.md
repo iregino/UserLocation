@@ -2,15 +2,15 @@
 
 ### Description
 
-This is an app to create a "to-do" list which allows user to add, update and delete to-do items. It also allows user to mark completed to-do items. It also lets the user know if an item is past due and not completed yet by changing the text to red.
+This is an app to show the user current location on the map, get the address of the location and get visual directions from user location to a specific destination.
 
-![todolist1](https://user-images.githubusercontent.com/44620966/55592759-2477f000-56ff-11e9-87e6-b8c325089cad.png) &nbsp;
-![todolist2](https://user-images.githubusercontent.com/44620966/55592762-2641b380-56ff-11e9-8e3a-529ebf148851.png)
+![user-location](https://user-images.githubusercontent.com/44620966/55687985-17464580-5939-11e9-8e01-4470c6311fe7.png) &nbps;
+![direction](https://user-images.githubusercontent.com/44620966/55687987-19100900-5939-11e9-9d6e-dee0e1fef010.png)
 
 ### Technology
 
-Swift 5.0, Xcode 10, UIKit, Interface Builder
+Swift 5.0, Xcode 10, UIKit, Interface Builder, MapKit, CoreLocation
 
 ### Purpose
 
-This is a project in Apple's Application Development with Swift. The goal of this project is to demonstrate the use of UI TableView, Protocol and Delegate, and Persistence of data.
+This is a tutorial project provided by Sean Allen. The goal of this project is to demonstrate the use of MapKit and CoreLocation to show the user current location on the map, reverse geolocate the address and request directions to a selected destination using MKDirections.
